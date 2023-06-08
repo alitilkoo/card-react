@@ -1,0 +1,16 @@
+.btn-display {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+  }
+  .btn-container {
+    display: flex;
+    justify-content: center;
+  }
+  .button {
+    border: none;
+    background-color: rgba(0, 0, 0, 0.016);
+    color: rgb(101, 181, 181);
+    margin: 22px 0px 14px 24px;
+  }
+  
